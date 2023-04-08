@@ -12,3 +12,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musadiqmustafa&show_icons=true&locale=en&layout=compact" alt="musadiqmustafa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musadiqmustafa&show_icons=true&locale=en" alt="musadiqmustafa" /></p>
+Python            8 hrs 36 mins   ███████████░░░░░░░░░░░░░░   43.46 %
+HTML              6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+CSS               3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+JavaScript        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
